@@ -16,3 +16,6 @@
 freshmea/freshmea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+- 한국산업기술... 공유 ppt 
+https://docs.google.com/presentation/d/1HaMmHbgfLsMl8mQYznO32ekMH490-XtUoW7AQRjtEtk/edit?usp=sharing
