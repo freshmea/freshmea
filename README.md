@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/ubuntu?style=plastic&logo=%23E95420&logoColor=blue)
+<a href="" target="_blank"><img src="https://img.shields.io/badge/bind-blue?style=plastic&logo=ubuntu&logoColor=blue"/></a>
 
 
 
