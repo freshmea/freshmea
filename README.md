@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=plastic&logo=%23E95420&logoColor=blue&label=20.04%20)
+![Static Badge](https://img.shields.io/badge/ubuntu?style=plastic&logo=%23E95420&logoColor=blue)
 
 
 
