@@ -1,4 +1,4 @@
-<a href="" target="_blank"><img src="https://img.shields.io/badge/bind-blue?style=plastic&logo=ubuntu&logoColor=blue"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/bind-blue?style=plastic&logo=ubuntu&logoColor=black"/></a>
 
 
 
