@@ -2,7 +2,7 @@
 
 
 
-[구글 슬라이드 홍익대OpenCV](https://docs.google.com/presentation/d/1BO69tB3_HULK1oc4ZlrSxyMZv-grKU2bsnl68k7C89A/edit?usp=sharing)
+[구글 슬라이드 마크로젠](https://docs.google.com/presentation/d/13CwGw9iCHQ9FhiF3tr2T55zJGEo_DKQ7qXCnEkmHjwY/edit?usp=sharing)
 
 - 방갑습니다. 로스2를 위주로 강의를 하고 있는 최수길이라고 합니다. 
 - 바인드소프트 개발 교육 과장으로 근무 하고 있습니다.
