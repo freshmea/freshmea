@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">MADAM — Learn. Build. Share.</title>
+  <desc id="desc">AI, Robotics, Education and Publishing. Make, AI, Digital, Automation, Media.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#29374c" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="340" rx="20" fill="#111d30"/>
+  <rect x="740" width="460" height="340" fill="url(#grid)"/>
+  <rect x="48" y="48" width="5" height="28" rx="2" fill="#ff873e"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="69" y="68" fill="#ffad78" font-size="16" font-weight="600" letter-spacing="3">TECHNOLOGY INTO LEARNING</text>
+    <text x="46" y="163" fill="#ffffff" font-size="82" font-weight="800" letter-spacing="2">MADAM<tspan fill="#ff873e">.</tspan></text>
+    <text x="50" y="214" fill="#e4eaf2" font-size="30" font-weight="500">Learn. Build. Share.</text>
+    <text x="50" y="279" fill="#aebdd0" font-size="15" letter-spacing="1">AI / ROBOTICS / EDUCATION / PUBLISHING</text>
+  </g>
+  <g fill="none" stroke="#ff873e" stroke-width="3">
+    <path d="M848 246V181L934 126L1032 174V246"/>
+    <path d="M848 181L934 220L1032 174M934 126V220" stroke="#7e96b5"/>
+    <circle cx="848" cy="181" r="10" fill="#111d30"/><circle cx="934" cy="126" r="10" fill="#ff873e"/>
+    <circle cx="1032" cy="174" r="10" fill="#111d30"/><circle cx="934" cy="220" r="10" fill="#111d30"/>
+  </g>
+  <path d="M821 255H875M1005 255H1059" stroke="#7e96b5" stroke-width="4" stroke-linecap="round"/>
+  <text x="827" y="68" fill="#aebdd0" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="2">CONNECT IDEAS TO ACTION</text>
+  <rect x="48" y="313" width="1104" height="2" fill="#2b3b50"/>
+  <rect x="48" y="313" width="168" height="2" fill="#ff873e"/>
+</svg>
