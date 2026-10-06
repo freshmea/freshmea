@@ -88,7 +88,9 @@ MADAM은 제가 중심으로 운영하는 기술교육·출판 사업입니다. 
 
 **[책 소개·전체 목차](https://github.com/freshmea/ros2-maker-guide/blob/main/BOOK.md)**
 
-[부크크 종이책](https://bookk.co.kr/bookStore/6aab47b74c0f28c3d4b33da7) · [영풍문고 종이책](https://www.ypbooks.co.kr/books/202609224911695468) · [YES24 종이책](https://www.yes24.com/product/goods/196822175) · [YES24 전자책](https://www.yes24.com/product/goods/196563555) · [부크크 전자책](https://bookk.co.kr/bookStore/6aa76a46dc64fe8c7e11a5e1)
+[부크크 종이책](https://bookk.co.kr/bookStore/6aab47b74c0f28c3d4b33da7) · [영풍문고 종이책](https://www.ypbooks.co.kr/books/202609224911695468) · [YES24 종이책](https://www.yes24.com/product/goods/196822175) · [알라딘 종이책 구매](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=403397171) · [YES24 전자책](https://www.yes24.com/product/goods/196563555) · [부크크 전자책](https://bookk.co.kr/bookStore/6aa76a46dc64fe8c7e11a5e1)
+
+알라딘·북센 판매 신청 처리 완료: 2026-10-02 부크크 통지 기준. 알라딘 종이책은 구매 링크에서 확인할 수 있습니다.
 
 <br clear="all" />
 
