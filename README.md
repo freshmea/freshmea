@@ -92,6 +92,8 @@ MADAM은 제가 중심으로 운영하는 기술교육·출판 사업입니다. 
 
 알라딘·북센 판매 신청 처리 완료: 2026-10-02 부크크 통지 기준. 알라딘 종이책은 구매 링크에서 확인할 수 있습니다.
 
+[북센 B2B 도서 정보](https://b2b.booxen.com/b2bmall/user/main/BookView.do?itemCd=11641651) — 서점·납품용 B2B몰의 등록 정보입니다.
+
 <br clear="all" />
 
 ### 다음 책과 실습 · micro-ROS 로봇
